@@ -9,11 +9,16 @@ The aim of this course is to provide the fundamentals and basic principles of th
 
 #### Course syllabus:
 
-    1- Statistical machine learning: defining machine learning tasks, providing performance guarantees, selecting the best models and algorithms.
-    2- Classical machine learning: linear classification and regression, perceptrons, Support Vector Machines, random forests
-    3- Deep learning: gradient descent, neural network models, backpropagation, Convolutional Neural Networks
-    4- Unsupervised learning: clustering models and metrics, linkage-based clustering, clustering algorithms, Principal Component Analysis
-    5- Reinforcement learning: Markov Decision Processes, on- and off-policy learning, Q-learning, SARSA
+    1- Statistical machine learning: defining machine learning tasks, providing performance 
+    guarantees, selecting the best models and algorithms.
+    2- Classical machine learning: linear classification and regression, perceptrons, Support
+    Vector Machines, random forests
+    3- Deep learning: gradient descent, neural network models, backpropagation, Convolutional
+    Neural Networks
+    4- Unsupervised learning: clustering models and metrics, linkage-based clustering, 
+    clustering algorithms, Principal Component Analysis
+    5- Reinforcement learning: Markov Decision Processes, on- and off-policy learning, 
+    Q-learning, SARSA
 
 #### Laboratories:
 
